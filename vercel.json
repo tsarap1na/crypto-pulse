@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/coincap/:path*",
+      "destination": "https://api.coincap.io/:path*"
+    }
+  ]
+}
