@@ -54,6 +54,10 @@ npm run preview
 
 The production build outputs to `dist/`.
 
+## Deploy
+
+[https://crypto-pulse-gules.vercel.app/](https://crypto-pulse-gules.vercel.app/)
+
 ## Project Structure
 
 ```
